@@ -3,7 +3,7 @@
 This project is built using Angular 11.0.1.
 
 
-## => It is totally inspired from Angular 8 Admin Dashboard Panel from code-academia Youtube's Channel (Big Thanks to him!) but adapted to Angular 11 and Angular Material 11.0.1. <=
+## => It is totally inspired from Angular 8 Admin Dashboard Panel from code-academia [Youtube's Channel](https://www.youtube.com/watch?v=FP7Hs8lTy1k) (Big Thanks to him!) but adapted to Angular 11 and Angular Material 11.0.1. <=
 
 
 
