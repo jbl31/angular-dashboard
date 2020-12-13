@@ -9,6 +9,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { FlexLayoutModule } from '@angular/flex-layout';
 import { MatMenuModule } from "@angular/material/menu";
 import { MatButtonModule } from "@angular/material/button";
+import { MatListModule } from "@angular/material/list";
 
 @NgModule({
   declarations: [
@@ -24,6 +25,7 @@ import { MatButtonModule } from "@angular/material/button";
     FlexLayoutModule,
     MatMenuModule,
     MatButtonModule,
+    MatListModule
   ],
   exports: [
     HeaderComponent,
